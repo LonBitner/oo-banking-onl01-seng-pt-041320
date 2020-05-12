@@ -13,6 +13,6 @@ class BankAccount
   end
   
   def display_balance(display)
-    @
+    "Your balance is $#{@balance}."
   end
 end
