@@ -17,5 +17,6 @@ class BankAccount
   end
   
   def valid
-    
+    @status = "open" 
+  end
 end
